@@ -1,0 +1,47 @@
+.btn {
+    position: relative;
+    height: 80%;
+    margin: 2% 22%;
+    bottom: 480px;
+
+}
+
+.card-text{
+   text-align: center;
+}
+
+.card{
+  
+   margin: 2%;
+   width: 12rem;  
+       
+}
+
+.card-title{
+    text-align: center;
+
+}
+.card-header{
+    text-align: center;
+
+}
+
+.text {
+    position: relative;
+    height: 80%;
+    margin: 2% 24%;
+    bottom: 250px; 
+}
+
+.w-70 {
+    width: 70%;
+  }
+  .w-30 {
+    width: 30%;
+  }
+.imagen {
+    position: relative;
+    height: 80%;
+    margin: 2% 23%;
+    bottom: 270px; 
+}
